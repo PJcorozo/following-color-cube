@@ -1,1 +1,2 @@
-# following-color-cube
+# p5.play-boilerplate
+Boiler plate for p5.play
